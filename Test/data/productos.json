@@ -1,0 +1,17 @@
+{
+    "productos": {
+        "1": {
+            "nombre": "Laptop",
+            "stock": 10
+        },
+        "2": {
+            "nombre": "Monitor",
+            "stock": 15
+        },
+        "3": {
+            "nombre": "Teclado",
+            "stock": 20
+        }
+    },
+    "siguiente_id": 4
+}
